@@ -1,2 +1,2 @@
-restcotnc
+restcotnc for Vanuatu
 # restcotnc
